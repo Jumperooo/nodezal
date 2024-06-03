@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodezal", "nodezal.njsproj", "{9E7EE453-CFD7-4520-A98C-942101472AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7EE453-CFD7-4520-A98C-942101472AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7EE453-CFD7-4520-A98C-942101472AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7EE453-CFD7-4520-A98C-942101472AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7EE453-CFD7-4520-A98C-942101472AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49223B5D-321A-43CD-B3D9-5FAEEC06D693}
+	EndGlobalSection
+EndGlobal
